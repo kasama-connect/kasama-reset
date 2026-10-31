@@ -4,8 +4,8 @@ If Kasama Connect's systems are lost, this page holds the locked bundle that sho
 
 ## How to open it
 
-1. Click **Releases** on the right (or go to https://github.com/kasama-connect/kasama-reset/releases/latest).
-2. Under **Assets**, download the file ending in `_ENCRYPTED.7z`.
+1. Open the **bundle** folder above.
+2. Click the newest file ending in `_ENCRYPTED.7z`, then click the **Download** button (the down arrow on the right).
 3. Install 7-Zip (Windows, free, https://7-zip.org) or Keka (Mac, free, https://keka.io).
 4. Get the recovery key from the sealed envelope held by Kasama Connect's Legal counsel or Vice President.
 5. Right-click the file, choose Extract, and type the key exactly, dashes included.
@@ -15,4 +15,8 @@ The bundle is encrypted (AES-256). Without the key it cannot be opened.
 
 ## Versions
 
-A new release is added every quarter. Older releases stay here for the record. Always use the newest one.
+A new version is added to the bundle folder every quarter. Older versions stay there for the record. Always use the newest one (the highest version number).
+
+| Version | Date | SHA-256 |
+|---|---|---|
+| v1.0 | 31 Oct 2026 | `26c9ba98184d824381084fa7452e0ad69c91bba005aa717b6050ae2486794736` |
