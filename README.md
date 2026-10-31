@@ -19,4 +19,4 @@ A new version is added to the bundle folder every quarter. Older versions stay t
 
 | Version | Date | SHA-256 |
 |---|---|---|
-| v1.0 | 31 Oct 2026 | `26c9ba98184d824381084fa7452e0ad69c91bba005aa717b6050ae2486794736` |
+| v1.0 | 31 Oct 2026 | `03dc7cdc41a3bacf3a66327974aed1d968ef793d6bac5db9f0633f5e8051d0b0` |
